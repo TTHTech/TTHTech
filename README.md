@@ -1,6 +1,6 @@
 <img align="top" alt="Coding" width="100%" src="https://64.media.tumblr.com/9c4931ab91fe2610bea99253b8c066c7/tumblr_pfx63q5Yxf1umxa8y_500.gifv">
 <h1 align="center">Hi 👋, I'm Hoài Thanh</h1>
-<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/daea1efa64b64da082d4d0bc7aabe11a85008966274f8e557cdfa59baaa89825/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33632f61652f63363363616531333434373636663134643964313834653561616665643036352e676966">
+<img align="right" alt="Coding" width="700" src="https://camo.githubusercontent.com/daea1efa64b64da082d4d0bc7aabe11a85008966274f8e557cdfa59baaa89825/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33632f61652f63363363616531333434373636663134643964313834653561616665643036352e676966">
 - 📫 How to reach me **tthoai2401.learn@gmail.com**
 
 - ⚡ Fun fact **I think I speak little and am introverted**
