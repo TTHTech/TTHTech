@@ -1,10 +1,11 @@
 <img align="right" alt="Coding" width="100%" height="500px" src="https://camo.githubusercontent.com/daea1efa64b64da082d4d0bc7aabe11a85008966274f8e557cdfa59baaa89825/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33632f61652f63363363616531333434373636663134643964313834653561616665643036352e676966">
 <h1 align="center">Hi 👋, I'm Hoài Thanh</h1>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/9c4931ab91fe2610bea99253b8c066c7/tumblr_pfx63q5Yxf1umxa8y_500.gifv">
+
+
 - 📫 How to reach me **tthoai2401.learn@gmail.com**
-
 - ⚡ Fun fact **I think I speak little and am introverted**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thanh hoài từ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanh hoài từ" height="30" width="40" /></a>
