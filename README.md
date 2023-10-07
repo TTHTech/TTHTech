@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/9c4931ab91fe2610bea99253b8c066c7/tumblr_pfx63q5Yxf1umxa8y_500.gifv">
 
 
-- 📫 How to reach me **tthoai2401.learn@gmail.com**
-- ⚡ Fun fact **I think I speak little and am introverted**
-- 
+📫 How to reach me **tthoai2401.learn@gmail.com**
+⚡ Fun fact **I think I speak little and am introverted**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thanh hoài từ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanh hoài từ" height="30" width="40" /></a>
