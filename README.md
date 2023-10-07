@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoài Thanh</h1>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/daea1efa64b64da082d4d0bc7aabe11a85008966274f8e557cdfa59baaa89825/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33632f61652f63363363616531333434373636663134643964313834653561616665643036352e676966">
-<img align="bottom" alt="Coding" width="100%" src="https://64.media.tumblr.com/9c4931ab91fe2610bea99253b8c066c7/tumblr_pfx63q5Yxf1umxa8y_500.gifv">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangphuong22&label=Profile%20views&color=0e75b6&style=flat" alt="hoangphuong22" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tthtech&label=Profile%20views&color=0e75b6&style=flat" alt="tthtech" /> </p>
-
 - 📫 How to reach me **tthoai2401.learn@gmail.com**
 
 - ⚡ Fun fact **I think I speak little and am introverted**
@@ -20,3 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tthtech&show_icons=true&locale=en" alt="tthtech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tthtech&" alt="tthtech" /></p>
+<img align="bottom" alt="Coding" width="100%" src="https://64.media.tumblr.com/9c4931ab91fe2610bea99253b8c066c7/tumblr_pfx63q5Yxf1umxa8y_500.gifv">
