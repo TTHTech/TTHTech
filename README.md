@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thanh hoài từ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanh hoài từ" height="30" width="40" /></a>
-<a href="https://fb.com/hoài thanh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoài thanh" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/thanh hoài từ](https://www.youtube.com/watch?v=J0B6BsJSf-0)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanh hoài từ" height="30" width="40" /></a>
+<a href="[https://fb.com/hoài thanh](https://www.youtube.com/watch?v=J0B6BsJSf-0)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoài thanh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
