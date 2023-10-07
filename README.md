@@ -4,7 +4,7 @@
 
 
 📫 How to reach me **tthoai2401.learn@gmail.com**
-⚡ Fun fact **I think I speak little and am introverted**
+ ⚡ Fun fact **I think I speak little and am introverted**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
