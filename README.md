@@ -62,6 +62,16 @@
 
 ---
 
+### 📅 Commits per Day
+[![Hoài Thanh's commits per day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TTHTech&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+---
+
+### 📊 Lines of Code
+[![Hoài Thanh's lines of code](https://github-profile-summary-cards.vercel.app/api/cards/lines-of-code?username=TTHTech&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
