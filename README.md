@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="100%" height="500px" src="https://freenice.net/wp-content/uploads/2021/09/hinh-gif-thanh-pho-buon.gif">
 <h1 align="center">Hi 👋, I'm Hoài Thanh</h1>
 <h3 align="center"><a href="https://www.quora.com/What-did-Mark-Twain-mean-when-he-said-Whenever-you-find-yourself-on-the-side-of-the-majority-it-may-be-time-to-stop-and-reflect#:~:text=Mark%20Twain's%20quote%2C%20%22Whenever%20you,be%20swayed%20by%20popular%20opinion.">Whenever you find yourself on the side of the majority, it is time to pause and reflect</a></h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/9c4931ab91fe2610bea99253b8c066c7/tumblr_pfx63q5Yxf1umxa8y_500.gifv">
+<!-- <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/9c4931ab91fe2610bea99253b8c066c7/tumblr_pfx63q5Yxf1umxa8y_500.gifv"> -->
 
 - 🌱 I’m currently learning **Information Technology**
 
