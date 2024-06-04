@@ -67,22 +67,21 @@
 
 
 
----
+<!------->
 
 <!-- ### 📅 Commits per Day-->
 <!--[![Hoài Thanh's commits per day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TTHTech&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
-
----
+<!------->
 
 <!-- ### ⏱️ Wakatime Stats-->
 <!-- Replace with your actual Wakatime username -->
 <!-- ![Hoài Thanh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TTHTech&layout=compact&theme=great-gatsby)-->
 
----
+<!------->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+<!-----
 
 [![](https://visitcount.itsvg.in/api?id=TTHTech&icon=0&color=0)](https://visitcount.itsvg.in)
