@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" height="500px" src="[[https://freenice.net/wp-content/uploads/2021/09/hinh-gif-thanh-pho-buon.gif](https://media.tenor.com/MWpSpZnhk2sAAAAd/eat-anime.gif)](https://th.bing.com/th/id/R.d3cf45736e7f8a2cfd3bb7cce962673b?rik=79fsWAZNMJCREw&pid=ImgRaw&r=0)">
+<img align="right" alt="Coding" width="100%" height="500px" src="https://media.tenor.com/MWpSpZnhk2sAAAAd/eat-anime.gif">
 <h1 align="center">Hi 👋, I'm Hoài Thanh</h1>
 <h3 align="center"><a href="https://www.quora.com/What-did-Mark-Twain-mean-when-he-said-Whenever-you-find-yourself-on-the-side-of-the-majority-it-may-be-time-to-stop-and-reflect#:~:text=Mark%20Twain's%20quote%2C%20%22Whenever%20you,be%20swayed%20by%20popular%20opinion.">Whenever you find yourself on the side of the majority, it is time to pause and reflect</a></h3>
 
