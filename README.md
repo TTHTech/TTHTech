@@ -67,7 +67,7 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/TTHTech/TTHTech/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TTHTech/TTHTech/blob/main/github-contribution-grid-snake.svg)
 
 
 
