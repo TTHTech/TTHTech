@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" height="500px" src="https://66.media.tumblr.com/32db4b2d09f92dd80fb77e3f56de72a6/tumblr_ofq8q1cdKD1rey868o1_640.gif">
+<img align="right" alt="Coding" width="100%" height="500px" src="https://media.tenor.com/z2yNxtcK3dQAAAAC/blood-insane.gif">
 <h1 align="center">Hi 👋, I'm Hoài Thanh</h1>
 <h3 align="center"><a href="[https://www.quora.com/What-did-Mark-Twain-mean-when-he-said-Whenever-you-find-yourself-on-the-side-of-the-majority-it-may-be-time-to-stop-and-reflect#:~:text=Mark%20Twain's%20quote%2C%20%22Whenever%20you,be%20swayed%20by%20popular%20opinion.](https://th.bing.com/th/id/R.6f05103f42a4e3fe5383a934fc1b4a03?rik=AjMgLQYMYUdWBw&pid=ImgRaw&r=0)">Whenever you find yourself on the side of the majority, it is time to pause and reflect</a></h3>
 
