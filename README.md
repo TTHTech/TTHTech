@@ -1,6 +1,6 @@
-<img align="right" alt="Coding" width="100%" height="500px" src="https://media.tenor.com/z2yNxtcK3dQAAAAC/blood-insane.gif">
+<img align="right" alt="Coding" width="100%" height="500px" src="[https://media.tenor.com/z2yNxtcK3dQAAAAC/blood-insane.gif](https://img4.thuthuatphanmem.vn/uploads/2020/05/07/hinh-anh-co-may-man_092853141.png)">
 <h1 align="center">Hi 👋, I'm Hoài Thanh</h1>
-<h3 align="center"><a href="https://img4.thuthuatphanmem.vn/uploads/2020/05/07/hinh-anh-co-may-man_092853141.png">Whenever you find yourself on the side of the majority, it is time to pause and reflect</a></h3>
+<h3 align="center"><a href="[https://www.quora.com/What-did-Mark-Twain-mean-when-he-said-Whenever-you-find-yourself-on-the-side-of-the-majority-it-may-be-time-to-stop-and-reflect#:~:text=Mark%20Twain's%20quote%2C%20%22Whenever%20you,be%20swayed%20by%20popular%20opinion.](https://th.bing.com/th/id/R.6f05103f42a4e3fe5383a934fc1b4a03?rik=AjMgLQYMYUdWBw&pid=ImgRaw&r=0)">Whenever you find yourself on the side of the majority, it is time to pause and reflect</a></h3>
 
 - 🌱 I’m currently learning **Information Technology**
 
@@ -34,58 +34,5 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TTHTech&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=TTHTech&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TTHTech&theme=great-gatsby&hide_border=false)
-
----
-
-### 📈 GitHub Activity Graph
-[![Hoài Thanh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TTHTech&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🐍 Contribution Snake
-![snake gif](https://github.com/TTHTech/TTHTech/blob/main/github-contribution-grid-snake.svg)
-
-
-
-<!------->
-
-<!-- ### 📅 Commits per Day-->
-<!--[![Hoài Thanh's commits per day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TTHTech&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
-<!------->
-
-<!-- ### ⏱️ Wakatime Stats-->
-<!-- Replace with your actual Wakatime username -->
-<!-- ![Hoài Thanh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TTHTech&layout=compact&theme=great-gatsby)-->
-
-<!------->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-----
-
-[![](https://visitcount.itsvg.in/api?id=TTHTech&icon=0&color=0)](https://visitcount.itsvg.in)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+[14/11/2024 09:20:51] Keen: @Anh Long Ra Nguyễn Chí Thanh...
