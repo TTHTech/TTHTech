@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" height="600px" src="https://media.tenor.com/z2yNxtcK3dQAAAAC/blood-insane.gif">
+<img align="right" alt="Coding" width="100%" height="600px" src="[https://media.tenor.com/z2yNxtcK3dQAAAAC/blood-insane.gif](https://img4.thuthuatphanmem.vn/uploads/2020/05/07/hinh-anh-co-may-man_092853141.png)">
 <h1 align="center">Hi 👋, I'm Hoài Thanh</h1>
 <h3 align="center"><a href="https://xwatch.vn/upload_images/images/2022/11/29/co-4-la-la-gi.jpg">Whenever you find yourself on the side of the majority, it is time to pause and reflect</a></h3>
 
