@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" height="500px" src="https://xwatch.vn/upload_images/images/2022/11/29/co-4-la-la-gi.jpg">
+<img align="right" alt="Coding" width="100%" height="600px" src="https://xwatch.vn/upload_images/images/2022/11/29/co-4-la-la-gi.jpg">
 <h1 align="center">Hi 👋, I'm Hoài Thanh</h1>
 <h3 align="center"><a href="https://xwatch.vn/upload_images/images/2022/11/29/co-4-la-la-gi.jpg">Whenever you find yourself on the side of the majority, it is time to pause and reflect</a></h3>
 
