@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" height="600px" src="https://xwatch.vn/upload_images/images/2022/11/29/co-4-la-la-gi.jpg">
+[[<img align="right" alt="Coding" width="100%" height="600px" src="https://xwatch.vn/upload_images/images/2022/11/29/co-4-la-la-gi.jpg">
 <h1 align="center">Hi 👋, I'm Hoài Thanh</h1>
 <h3 align="center"><a href="https://xwatch.vn/upload_images/images/2022/11/29/co-4-la-la-gi.jpg">Whenever you find yourself on the side of the majority, it is time to pause and reflect</a></h3>
 
@@ -36,3 +36,4 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 [14/11/2024 09:20:51] Keen: @Anh Long Ra Nguyễn Chí Thanh...
+](https://xwatch.vn/upload_images/images/2022/11/29/co-4-la-la-gi.jpg)](https://xwatch.vn/upload_images/images/2022/11/29/co-4-la-la-gi.jpg)
