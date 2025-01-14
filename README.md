@@ -52,10 +52,17 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TTHTech&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=TTHTech&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TTHTech&theme=great-gatsby&hide_border=false)
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTHTech&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TTHTech&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TTHTech&theme=great-gatsby&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TTHTech&theme=onedark&column=7" alt="GitHub Trophy" />
+</div>
 
 ---
 
