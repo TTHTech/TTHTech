@@ -7,7 +7,7 @@
 - 📫 How to reach me **tthoai2401.learn@gmail.com**
 
 - ⚡ Fun fact **I think I speak little and am introverted**
-- 28/1 - 1/1 nghỉ tết âm. 2/1 code tiếp. commie chỉ để giữ chuỗi 
+- 28/1 - 1/1 nghỉ tết âm. 2/1 code tiếp. commit chỉ để giữ chuỗi 
 - 28/1 *
 - 29/1
 - 1/1
