@@ -7,10 +7,7 @@
 - 📫 How to reach me **tthoai2401.learn@gmail.com**
 
 - ⚡ Fun fact **I think I speak little and am introverted**
-- 28/1 - 1/1 nghỉ tết âm. 2/1 code tiếp. commit chỉ để giữ chuỗi 
-- 28/1 *
-- 29/1
-- 1/1
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://www.youtube.com/watch?v=J0B6BsJSf-0" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://media.tenor.com/MWpSpZnhk2sAAAAd/eat-anime.gif)" alt="thanh hoài từ" height="30" width="40" /></a> -->
