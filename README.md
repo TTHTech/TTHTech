@@ -352,7 +352,7 @@
 </div>
 
 <br><!-- Những Câu Nói Hay - Replacing community testimonials -->
-<h2>💬 Những Câu Nói Hay</h2>
+<h2>💬 Good Quotes</h2>
 
 <div align="center">
   <table>
