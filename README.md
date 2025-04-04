@@ -131,7 +131,7 @@
         <img src="https://img.shields.io/badge/2024-Data_Science-red?style=for-the-badge" alt="2024"/>
       </td>
       <td>
-        Học Python cho phân tích dữ liệu, machine learning và AI
+        Học các kỹ năng cần thiết cho việc thực hiện khóa luận.
       </td>
     </tr>
     <tr>
@@ -139,7 +139,7 @@
         <img src="https://img.shields.io/badge/2025-Mục_tiêu-teal?style=for-the-badge" alt="2025"/>
       </td>
       <td>
-        Phát triển kỹ năng fullstack và tham gia các dự án thực tế
+        Đi Thực tập và làm khóa luận tốt nghiệp.
       </td>
     </tr>
   </table>
