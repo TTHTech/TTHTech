@@ -123,7 +123,7 @@
         <img src="https://img.shields.io/badge/2023-DevOps_&_Cloud-orange?style=for-the-badge" alt="2023"/>
       </td>
       <td>
-        Học Docker, Kubernetes và triển khai ứng dụng lên cloud platforms
+        hoho
       </td>
     </tr>
     <tr>
