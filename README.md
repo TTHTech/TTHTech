@@ -9,9 +9,6 @@
 
 
 
-
-
-
 <div align="center">
   <a href="https://github.com/TTHTech">
     <img src="https://img.shields.io/badge/TTHTech-Developer-blue?style=for-the-badge&logo=github" alt="GitHub Badge"/>
@@ -248,101 +245,101 @@
       <td width="50%">
         <h3 align="center">MultiSkill Academy (Backend)</h3>
         <a href="https://github.com/TTHTech/MultiSkillAcademy-BE" target="_blank">
-          <img src="https://miro.medium.com/v2/resize:fit:1358/1*M1PGNSHmqlvP5xJyx4vX8w.gif" alt="LMS Backend" width="100%">
+          <img src="https://miro.medium.com/v2/resize:fit:1358/1*M1PGNSHmqlvP5xJyx4vX8w.gif" alt="LMS Backend" width="100%" height="220px" style="object-fit: cover;">
         </a>
         <p>
           <a href="https://github.com/TTHTech/MultiSkillAcademy-BE" target="_blank">
-            <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white">
+            <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
           </a>
           <a href="https://drive.google.com/file/d/10vrlwsa1fTavPIQbQ8277n5FJksswzTE/view?usp=sharing" target="_blank">
             <img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=google-drive&logoColor=white">
           </a>
         </p>
-        <p><strong>Spring Boot · JWT · WebSocket · MySQL · Docker</strong><br>
-           Backend đa vai trò, realtime, CI/CD Railway.</p>
+        <p><strong>Spring Boot · JWT · WebSocket · MySQL · Docker</strong><br>
+           Multi-role backend with realtime features and CI/CD via Railway.</p>
       </td>
       <td width="50%">
-        <h3 align="center">SportGear Web (Spring MVC)</h3>
+        <h3 align="center">SportGear Web (Spring MVC)</h3>
         <a href="https://github.com/TTHTech/SportGearE-commerce" target="_blank">
-          <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675780786916/1e80251f-be63-4a6b-b647-1881e68cf653.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="SportGear MVC" width="100%">
+          <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675780786916/1e80251f-be63-4a6b-b647-1881e68cf653.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="SportGear MVC" width="100%" height="220px" style="object-fit: cover;">
         </a>
         <p>
           <a href="https://github.com/TTHTech/SportGearE-commerce" target="_blank">
-            <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white">
+            <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </p>
-        <p><strong>Spring Boot · Thymeleaf · JWT · MySQL</strong><br>
-           Website bán đồ thể thao, giỏ hàng, đơn hàng, phân quyền.</p>
+        <p><strong>Spring Boot · Thymeleaf · JWT · MySQL</strong><br>
+           Sports e-commerce site with cart, order, and role-based access.</p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">FindRoom App UI</h3>
+        <h3 align="center">FindRoom App UI</h3>
         <a href="https://github.com/TTHTech/FindRoom-FE-Android" target="_blank">
-          <img src="https://th.bing.com/th/id/R.450f1ff8dde875ab59a21707f633ffc1?rik=UY8NviAAAcJyaA&pid=ImgRaw&r=0" alt="FindRoom UI" width="100%">
+          <img src="https://th.bing.com/th/id/R.450f1ff8dde875ab59a21707f633ffc1?rik=UY8NviAAAcJyaA&pid=ImgRaw&r=0" alt="FindRoom UI" width="100%" height="220px" style="object-fit: cover;">
         </a>
         <p>
           <a href="https://github.com/TTHTech/FindRoom-FE-Android" target="_blank">
-            <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white">
+            <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </p>
-        <p><strong>React Native · Expo · Maps · Navigation</strong><br>
-           Giao diện tìm phòng, định vị, quản lý ảnh & video.</p>
+        <p><strong>React Native · Expo · Maps · Navigation</strong><br>
+           Room search UI with location, image and video management.</p>
       </td>
-        <td width="50%">
+      <td width="50%">
         <h3 align="center">MultiSkill Academy (Frontend)</h3>
         <a href="https://github.com/TTHTech/MultiSkillAcademy-FE" target="_blank">
-          <img src="https://www.aalpha.net/wp-content/uploads/2021/07/reactjs.gif" alt="LMS Frontend" width="100%">
+          <img src="https://www.aalpha.net/wp-content/uploads/2021/07/reactjs.gif" alt="LMS Frontend" width="100%" height="220px" style="object-fit: cover;">
         </a>
         <p>
           <a href="https://github.com/TTHTech/MultiSkillAcademy-FE" target="_blank">
-            <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white">
+            <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
           </a>
           <a href="https://drive.google.com/file/d/10vrlwsa1fTavPIQbQ8277n5FJksswzTE/view?usp=sharing" target="_blank">
             <img src="https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white">
           </a>
         </p>
         <p><strong>ReactJS · TailwindCSS · WebSocket · Chart.js</strong><br>
-           Frontend LMS đa vai trò, realtime, báo cáo PDF/XLSX.</p>
+           Multi-role LMS frontend with realtime and PDF/XLSX reports.</p>
       </td>
     </tr>
-     <tr>
+    <tr>
       <td width="50%">
-        <h3 align="center">Course Recommender (AI Module)</h3>
+        <h3 align="center">Course Recommender (AI Module)</h3>
         <a href="https://github.com/TTHTech/HybridCollaborativeCourseRecommendationModel" target="_blank">
-          <img src="https://tse4.mm.bing.net/th/id/OIP.EGk0Zzaprknz2GE7ZMFnaAHaEf?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="AI Recommender" width="100%">
+          <img src="https://tse4.mm.bing.net/th/id/OIP.EGk0Zzaprknz2GE7ZMFnaAHaEf?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="AI Recommender" width="100%" height="220px" style="object-fit: cover;">
         </a>
         <p>
           <a href="https://github.com/TTHTech/HybridCollaborativeCourseRecommendationModel" target="_blank">
-            <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white">
+            <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
           </a>
           <a href="https://colab.research.google.com/drive/15U2ysug71R1beY-eN83kZb5w9LEfrnbK" target="_blank">
             <img src="https://img.shields.io/badge/Demo-E34F26?style=for-the-badge&logo=google-colab&logoColor=white">
           </a>
         </p>
         <p><strong>Flask · LightFM · Python</strong><br>
-           API gợi ý khóa học cá nhân hóa dạng microservice.</p>
+           Personalized course recommendation API as a microservice.</p>
       </td>
-          <td width="50%">
-        <h3 align="center">Snake With AI</h3>
+      <td width="50%">
+        <h3 align="center">Snake With AI</h3>
         <a href="https://github.com/TTHTech/Snake_With_AI" target="_blank">
-          <img src="https://art.pixilart.com/7e09e5620189c96.gif" alt="Snake With AI" width="100%">
+          <img src="https://art.pixilart.com/7e09e5620189c96.gif" alt="Snake With AI" width="100%" height="220px" style="object-fit: cover;">
         </a>
         <p>
           <a href="https://github.com/TTHTech/Snake_With_AI" target="_blank">
-            <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white">
+            <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
           </a>
           <a href="YOUR_DEMO_LINK_6" target="_blank">
             <img src="https://img.shields.io/badge/Demo-00bfff?style=for-the-badge&logo=youtube&logoColor=white">
           </a>
         </p>
         <p><strong>Python · Pygame · A* · BFS · DFS</strong><br>
-           Trò chơi Snake tự động với nhiều thuật toán tìm đường.</p>
+           Snake game with auto-play using multiple pathfinding algorithms.</p>
       </td>
     </tr>
-    
   </table>
 </div>
+
 
 
 <br>
