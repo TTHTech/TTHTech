@@ -4,8 +4,13 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Ho%C3%A0i+Thanh;Welcome+to+my+GitHub;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=4169E1&center=true&vCenter=true&random=false&width=850&lines=🚀+Hi%2C+I'm+Tu+Thanh+Hoai;💻+Backend+Developer+(Fresher);🌱+Spring+Boot+%7C+MySQL+%7C+REST+API;🔥+Always+Learning+%26+Building;⚙️+Code.+Fail.+Fix.+Repeat" alt="Typing SVG" />
 </h1>
+
+
+
+
+
 
 <div align="center">
   <a href="https://github.com/TTHTech">
@@ -20,7 +25,12 @@
 </div>
 
 <p align="center">
-  <em>"Whenever you find yourself on the side of the majority, it is time to pause and reflect"</em> - Mark Twain
+  <strong>
+    <em style="font-size: 20px; color:#6A5ACD;">
+      ✨ "Whenever you find yourself on the side of the majority,<br> it is time to pause and reflect" ✨
+    </em>
+  </strong>
+  <br><em>– Mark Twain</em>
 </p>
 
 <br>
@@ -28,7 +38,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img alt="coding" src="https://i.pinimg.com/736x/b6/9b/b3/b69bb3d1cb809d3b90a5b81724cf2374.jpg" width="350"/>
+      <img alt="coding" src="https://firebasestorage.googleapis.com/v0/b/appgallery-30bf7.appspot.com/o/images%2F3e2978fa-9ce5-4198-993b-d78e1b1aaf2f_happy.jpg?alt=media&token=2f46ee98-c829-4169-a0cf-5f9043d49203" width="350"/>
     </td>
     <td width="50%">
       <h3>👨‍💻 About Me</h3>
@@ -37,13 +47,14 @@
         <li>🌱 Continuously learning and improving my skills</li>
         <li>💼 Passionate about building elegant solutions to complex problems</li>
         <li>📫 Reach me at: <b>tthoai2401.learn@gmail.com</b></li>
-        <li>⚡ Fun fact: <b>I think I speak little and am introverted</b></li>
+        <li>💬 I communicate clearly and confidently in team settings</li>
         <li>🔭 Working on exciting projects with cutting-edge technologies</li>
         <li>🌍 Looking to collaborate on innovative open source projects</li>
       </ul>
     </td>
   </tr>
 </table>
+
 
 <br>
 
@@ -96,54 +107,47 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2021-Bắt_đầu_học_IT-blue?style=for-the-badge" alt="2021"/>
+        <img src="https://img.shields.io/badge/2021-Nền_tảng_IT-blue?style=for-the-badge" alt="2021"/>
       </td>
       <td>
-        Bắt đầu hành trình học tập CNTT tại trường đại học
+        Làm quen với tư duy lập trình, giải thuật và các khái niệm cơ bản trong Công nghệ Thông tin.
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2021-Frontend_Developer-green?style=for-the-badge" alt="2021"/>
+        <img src="https://img.shields.io/badge/2022-Frontend_Căn_bản-green?style=for-the-badge" alt="2022"/>
       </td>
       <td>
-        Làm quen với HTML, CSS, và JavaScript. Tạo các dự án web đầu tiên
+        Bắt đầu học HTML, CSS, JavaScript và xây dựng những trang web đầu tiên.
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2022-Backend_Development-purple?style=for-the-badge" alt="2022"/>
+        <img src="https://img.shields.io/badge/2023-Backend_Development-purple?style=for-the-badge" alt="2023"/>
       </td>
       <td>
-        Học Java, Spring Framework, và phát triển RESTful APIs
+        Học Java, Spring Boot, phát triển RESTful APIs và làm việc với cơ sở dữ liệu như MySQL, PostgreSQL.
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2023-DevOps_&_Cloud-orange?style=for-the-badge" alt="2023"/>
+        <img src="https://img.shields.io/badge/2024-DevOps_&_Khóa_Luận-orange?style=for-the-badge" alt="2024"/>
       </td>
       <td>
-        hoho
+        Tìm hiểu về CI/CD, Docker, GitHub Actions; chuẩn bị kiến thức và kỹ năng để thực hiện khóa luận tốt nghiệp.
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2024-Data_Science-red?style=for-the-badge" alt="2024"/>
+        <img src="https://img.shields.io/badge/2025-Thực_Tập_%26_Tốt_Nghiệp-teal?style=for-the-badge" alt="2025"/>
       </td>
       <td>
-        Học các kỹ năng cần thiết cho việc thực hiện khóa luận.
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2025-Mục_tiêu-teal?style=for-the-badge" alt="2025"/>
-      </td>
-      <td>
-        Đi Thực tập và làm khóa luận tốt nghiệp.
+        Thực tập tại doanh nghiệp, hoàn thành khóa luận và sẵn sàng cho hành trình phát triển sự nghiệp chính thức.
       </td>
     </tr>
   </table>
 </div>
+
 
 <br>
 
@@ -242,46 +246,104 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">E-Commerce Platform</h3>
-        <div align="center">
-          <a href="https://github.com/TTHTech/project1" target="_blank">
-            <img src="https://raw.githubusercontent.com/TTHTech/TTHTech/main/project1.jpg" alt="E-Commerce Project" width="100%" />
+        <h3 align="center">MultiSkill Academy (Backend)</h3>
+        <a href="https://github.com/TTHTech/MultiSkillAcademy-BE" target="_blank">
+          <img src="https://miro.medium.com/v2/resize:fit:1358/1*M1PGNSHmqlvP5xJyx4vX8w.gif" alt="LMS Backend" width="100%">
+        </a>
+        <p>
+          <a href="https://github.com/TTHTech/MultiSkillAcademy-BE" target="_blank">
+            <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white">
           </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/TTHTech/project1" target="_blank">
-              <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Demo"/>
-            </a>
-          </p>
-          <p><strong>Java, Spring Boot, React, PostgreSQL</strong> - Nền tảng thương mại điện tử với đầy đủ chức năng quản lý sản phẩm, giỏ hàng, thanh toán và hệ thống đánh giá.</p>
-        </div>
+          <a href="https://drive.google.com/file/d/10vrlwsa1fTavPIQbQ8277n5FJksswzTE/view?usp=sharing" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=google-drive&logoColor=white">
+          </a>
+        </p>
+        <p><strong>Spring Boot · JWT · WebSocket · MySQL · Docker</strong><br>
+           Backend đa vai trò, realtime, CI/CD Railway.</p>
       </td>
       <td width="50%">
-        <h3 align="center">Task Management System</h3>
-        <div align="center">
-          <a href="https://github.com/TTHTech/project2" target="_blank">
-            <img src="https://raw.githubusercontent.com/TTHTech/TTHTech/main/project2.jpg" alt="Task Management" width="100%" />
+        <h3 align="center">SportGear Web (Spring MVC)</h3>
+        <a href="https://github.com/TTHTech/SportGearE-commerce" target="_blank">
+          <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675780786916/1e80251f-be63-4a6b-b647-1881e68cf653.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="SportGear MVC" width="100%">
+        </a>
+        <p>
+          <a href="https://github.com/TTHTech/SportGearE-commerce" target="_blank">
+            <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white">
           </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/TTHTech/project2" target="_blank">
-              <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-            </a>  
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"/>
-            </a>
-          </p>
-          <p><strong>MERN Stack, Redux, JWT</strong> - Hệ thống quản lý công việc với các tính năng phân quyền, theo dõi tiến độ, thông báo và báo cáo.</p>
-        </div>
+        </p>
+        <p><strong>Spring Boot · Thymeleaf · JWT · MySQL</strong><br>
+           Website bán đồ thể thao, giỏ hàng, đơn hàng, phân quyền.</p>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">FindRoom App UI</h3>
+        <a href="https://github.com/TTHTech/FindRoom-FE-Android" target="_blank">
+          <img src="https://th.bing.com/th/id/R.450f1ff8dde875ab59a21707f633ffc1?rik=UY8NviAAAcJyaA&pid=ImgRaw&r=0" alt="FindRoom UI" width="100%">
+        </a>
+        <p>
+          <a href="https://github.com/TTHTech/FindRoom-FE-Android" target="_blank">
+            <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+        <p><strong>React Native · Expo · Maps · Navigation</strong><br>
+           Giao diện tìm phòng, định vị, quản lý ảnh & video.</p>
+      </td>
+        <td width="50%">
+        <h3 align="center">MultiSkill Academy (Frontend)</h3>
+        <a href="https://github.com/TTHTech/MultiSkillAcademy-FE" target="_blank">
+          <img src="https://www.aalpha.net/wp-content/uploads/2021/07/reactjs.gif" alt="LMS Frontend" width="100%">
+        </a>
+        <p>
+          <a href="https://github.com/TTHTech/MultiSkillAcademy-FE" target="_blank">
+            <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://drive.google.com/file/d/10vrlwsa1fTavPIQbQ8277n5FJksswzTE/view?usp=sharing" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white">
+          </a>
+        </p>
+        <p><strong>ReactJS · TailwindCSS · WebSocket · Chart.js</strong><br>
+           Frontend LMS đa vai trò, realtime, báo cáo PDF/XLSX.</p>
+      </td>
+    </tr>
+     <tr>
+      <td width="50%">
+        <h3 align="center">Course Recommender (AI Module)</h3>
+        <a href="https://github.com/TTHTech/HybridCollaborativeCourseRecommendationModel" target="_blank">
+          <img src="https://tse4.mm.bing.net/th/id/OIP.EGk0Zzaprknz2GE7ZMFnaAHaEf?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="AI Recommender" width="100%">
+        </a>
+        <p>
+          <a href="https://github.com/TTHTech/HybridCollaborativeCourseRecommendationModel" target="_blank">
+            <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://colab.research.google.com/drive/15U2ysug71R1beY-eN83kZb5w9LEfrnbK" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-E34F26?style=for-the-badge&logo=google-colab&logoColor=white">
+          </a>
+        </p>
+        <p><strong>Flask · LightFM · Python</strong><br>
+           API gợi ý khóa học cá nhân hóa dạng microservice.</p>
+      </td>
+          <td width="50%">
+        <h3 align="center">Snake With AI</h3>
+        <a href="https://github.com/TTHTech/Snake_With_AI" target="_blank">
+          <img src="https://art.pixilart.com/7e09e5620189c96.gif" alt="Snake With AI" width="100%">
+        </a>
+        <p>
+          <a href="https://github.com/TTHTech/Snake_With_AI" target="_blank">
+            <img src="https://img.shields.io/badge/Mã_nguồn-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="YOUR_DEMO_LINK_6" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-00bfff?style=for-the-badge&logo=youtube&logoColor=white">
+          </a>
+        </p>
+        <p><strong>Python · Pygame · A* · BFS · DFS</strong><br>
+           Trò chơi Snake tự động với nhiều thuật toán tìm đường.</p>
+      </td>
+    </tr>
+    
   </table>
 </div>
+
 
 <br>
 
