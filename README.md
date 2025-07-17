@@ -98,24 +98,24 @@
 <br>
 
 <!-- Lộ trình học tập và phát triển - Updated with correct starting year -->
-<h2>🚀 Lộ Trình Học Tập & Phát Triển</h2>
+<h2>🚀 Learning & Development Journey</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2021-Nền_tảng_IT-blue?style=for-the-badge" alt="2021"/>
+        <img src="https://img.shields.io/badge/2021-IT_Fundamentals-blue?style=for-the-badge" alt="2021"/>
       </td>
       <td>
-        Làm quen với tư duy lập trình, giải thuật và các khái niệm cơ bản trong Công nghệ Thông tin.
+        Got familiar with programming mindset, algorithms, and basic concepts in Information Technology.
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2022-Frontend_Căn_bản-green?style=for-the-badge" alt="2022"/>
+        <img src="https://img.shields.io/badge/2022-Basic_Frontend-green?style=for-the-badge" alt="2022"/>
       </td>
       <td>
-        Bắt đầu học HTML, CSS, JavaScript và xây dựng những trang web đầu tiên.
+        Started learning HTML, CSS, JavaScript and built my very first web pages.
       </td>
     </tr>
     <tr>
@@ -123,23 +123,23 @@
         <img src="https://img.shields.io/badge/2023-Backend_Development-purple?style=for-the-badge" alt="2023"/>
       </td>
       <td>
-        Học Java, Spring Boot, phát triển RESTful APIs và làm việc với cơ sở dữ liệu như MySQL, PostgreSQL.
+        Learned Java, Spring Boot, developed RESTful APIs and worked with databases like MySQL and PostgreSQL.
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2024-DevOps_&_Khóa_Luận-orange?style=for-the-badge" alt="2024"/>
+        <img src="https://img.shields.io/badge/2024-DevOps_&_Thesis-orange?style=for-the-badge" alt="2024"/>
       </td>
       <td>
-        Tìm hiểu về CI/CD, Docker, GitHub Actions; chuẩn bị kiến thức và kỹ năng để thực hiện khóa luận tốt nghiệp.
+        Explored CI/CD, Docker, GitHub Actions; prepared knowledge and skills for the graduation thesis.
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2025-Thực_Tập_%26_Tốt_Nghiệp-teal?style=for-the-badge" alt="2025"/>
+        <img src="https://img.shields.io/badge/2025-Internship_&_Graduation-teal?style=for-the-badge" alt="2025"/>
       </td>
       <td>
-        Thực tập tại doanh nghiệp, hoàn thành khóa luận và sẵn sàng cho hành trình phát triển sự nghiệp chính thức.
+        Interned at a company, completed my graduation project, and became ready for a professional career.
       </td>
     </tr>
   </table>
@@ -237,7 +237,7 @@
 <br>
 
 <!-- Dự án nổi bật với hình ảnh preview -->
-<h2>💼 Dự Án Nổi Bật</h2>
+<h2>💼 Featured Projects</h2>
 
 <div align="center">
   <table>
